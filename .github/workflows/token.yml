@@ -1,5 +1,4 @@
 name: CD
-ls when the workflow will run
 on:
   push:
     branches: [ "main" ]
