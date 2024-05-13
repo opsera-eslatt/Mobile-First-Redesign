@@ -24,3 +24,4 @@ MFR-518 token repo change
 MFR-521 token repo change
 MFR-524 token repo change
 MFR-526 token repo change
+MFR-525 token repo change
