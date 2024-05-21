@@ -32,3 +32,4 @@ MFR-527 token repo change
 MFR-531 token repo change
 MFR-530 token repo change
 MFR-528 token repo change
+MFR-529 token repo change
